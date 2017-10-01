@@ -9,4 +9,5 @@ def my_each (collection) # put argument(s) here
   else
     "No block was given!"
   end
+  collection
 end
